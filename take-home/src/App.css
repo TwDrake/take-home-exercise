@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.container div {
+  flex-grow: 1;
+}
+
+.country-input {
+  text-transform: uppercase;
+  margin: 0 8px;
+}
+
+input {
+  min-width: 150px;
+}
+
+button,
+input,
+.error {
+  padding: 8px;
+}
+
+table,
+td {
+  border: 1px solid;
+  padding: 8px;
+}
+
+thead {
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+  width: 600px;
+  text-align: right;
+}

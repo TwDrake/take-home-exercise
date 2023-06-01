@@ -1,0 +1,11 @@
+{
+  "compiler options": {
+    "target": "es7",
+    "module": "commonjs",
+    "rootDir": "./",
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "strict": false
+  },
+  "include": ["./src/**/*.ts"]
+}
