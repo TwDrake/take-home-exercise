@@ -4,10 +4,11 @@ This take home exercise consists of a Node/Express/Typescript API located in "./
 
 ### How to run
 
-1. `npm i`
-2. `npm run dev`
-3. Open new terminal
-4. `cd api`
-5. `npm i`
-6. `npm start`
-7. Navigate to `http://localhost:4000` within your browser
+1. Clone repository
+2. `npm i`
+3. `npm run dev`
+4. Open new terminal
+5. `cd api`
+6. `npm i`
+7. `npm start`
+8. Navigate to `http://localhost:4000` within your browser
